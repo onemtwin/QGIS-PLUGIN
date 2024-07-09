@@ -1,2 +1,1 @@
-# qgis-lat-long
-convert latitude to longitudes
+The plugin will be able to convert latitudes to longitudes and vice verse. 
